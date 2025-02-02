@@ -19,7 +19,7 @@ Ziel der vorliegenden Arbeit ist es, ein numerisches Maß zur Berechnung der Feh
 # Dokumentierte Anwendungsszenarien
 **************************************************************************************************************************************
 
-    - Estiamte the fault tolerance of binary logis micro circuits
+    - Estimate the fault tolerance of micro circuits with binary logics
     
 **************************************************************************************************************************************
 
